@@ -196,6 +196,3 @@ PASSWORD = os.environ.get('PM_PASSWORD')
 
 For API-related issues, contact EPA's Portfolio Manager support team through your account.
 
-## License
-
-This tool is provided as-is for use with EPA Energy Star Portfolio Manager.
