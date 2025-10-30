@@ -1,0 +1,16 @@
+name,primaryFunction,address1,address2,city,state,postalCode,country,yearBuilt,constructionStatus,grossFloorArea,gfaUnits,gfaTemporary,occupancyPercentage,isFederalProperty,notes
+Main Office Building,Office,123 Main Street,Suite 100,Washington,DC,20001,US,2005,Existing,50000,Square Feet,false,85,false,Headquarters building
+Warehouse Facility,Non-Refrigerated Warehouse,456 Industrial Ave,,Baltimore,MD,21201,US,1998,Existing,100000,Square Feet,false,90,false,Primary distribution center
+Retail Store Downtown,Retail Store,789 Commerce Blvd,Unit 5,Arlington,VA,22201,US,2010,Existing,15000,Square Feet,false,95,false,Flagship retail location
+Regional Data Center,Data Center,321 Tech Park Dr,,Reston,VA,20190,US,2015,Existing,25000,Square Feet,false,100,false,24/7 operations facility
+Elementary School,K-12 School,555 Education Way,,Bethesda,MD,20814,US,1985,Existing,75000,Square Feet,false,80,false,Grades K-5 school building
+Community Hospital,Hospital (General Medical & Surgical),101 Health Rd,,Alexandria,VA,22314,US,1999,Existing,120000,Square Feet,false,75,false,Full service hospital
+City Library,Library,200 Civic Center,,Washington,DC,20005,US,1980,Existing,30000,Square Feet,false,60,false,Main city library branch
+Convention Center,Convention Center,400 Commerce St,,Baltimore,MD,21202,US,2000,Existing,90000,Square Feet,false,70,false,Event space and conference center
+University Campus,College/University,900 College Blvd,,College Park,MD,20740,US,1975,Existing,180000,Square Feet,false,88,false,Main campus buildings
+Local Fire Station,Fire Station,150 Firehouse Ln,,Arlington,VA,22203,US,1965,Existing,15000,Square Feet,false,85,false,Emergency response station
+Hotel Metro Plaza,Hotel,500 Hospitality Dr,,Washington,DC,20009,US,2010,Existing,65000,Square Feet,false,92,false,Upscale business hotel
+Shopping Mall,Enclosed Mall,750 Retail Pkwy,,Baltimore,MD,21203,US,1995,Existing,200000,Square Feet,false,78,false,Major regional shopping center
+Research Lab,Laboratory,610 Innovation Rd,,Rockville,MD,20850,US,2008,Existing,35000,Square Feet,false,85,false,Scientific research lab
+Senior Care Facility,Senior Care Community,300 Wellness Way,,Silver Spring,MD,20901,US,1988,Existing,40000,Square Feet,false,90,false,Assisted living center
+Bank HQ,Bank Branch,110 Finance Dr,,Washington,DC,20004,US,2002,Existing,25000,Square Feet,false,80,false,Main regional bank office
